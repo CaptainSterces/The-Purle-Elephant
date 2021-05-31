@@ -37,7 +37,7 @@ hr {
 
 .Logo {
   width: 100%;
-  height: 350px;
+  height: 25vw;
   font-family: 'Fredoka One', cursive;
   font-size: 3vw;
   text-decoration: underline;
@@ -49,8 +49,8 @@ hr {
 }
 
 .LogoImg1 {
-  height: 400px;
-  width: 300px;
+  height: 20vw;
+  width: 16vw;
   position: absolute;
   top: 5%;
   left: 10%;
@@ -58,16 +58,12 @@ hr {
 }
 
 .LogoImg2 {
-  height: 400px;
-  width: 300px;
+  height: 20vw;
+  width: 16vw;
   position: absolute;
   top: 5%;
   right: 10%;
   filter: drop-shadow(4px 4px 4px #222831);
-}
-
-.Top {
-  text-decoration: underline;
 }
 
 .inline {
@@ -75,7 +71,7 @@ hr {
 }
 
 .Mid {
-  height: 30vw;
+  height: 50vw;
   width: auto;
   display: block;
   position: relative;
@@ -85,18 +81,18 @@ hr {
 .Left {
   position: absolute;
   background-image: linear-gradient(#a37eba, #9d65c9);
-  height: 30vw;
+  height: 50vw;
   width: 20%;
   margin-left: 8%;
   border-radius: 25px;
-  font-size: 1.25vw;
+  font-size: 2vw;
   overflow: auto;
 }
 
 .Center {
   position: absolute;
   left: 30%;
-  height: 30vw;
+  height: 50vw;
   width: 40%;
   border-radius: 25px;
   background-color: #a37eba;
@@ -106,11 +102,11 @@ hr {
   position: absolute;
   background-image: linear-gradient(#a37eba, #9d65c9);
   right: 0;
-  height: 30vw;
+  height: 50vw;
   width: 20%;
   margin-right: 8%;
   border-radius: 25px;
-  font-size: 1.25vw;
+  font-size: 2vw;
   overflow: overlay;
 }
 
@@ -138,9 +134,9 @@ hr {
 }
 
 .Table {
-  height: 28vw;
+  height: 45vw;
   width: 38vw;
-  margin-top: 15px;
+  margin-top: 2vw;
   margin-left: auto;
   margin-right: auto;
   border-spacing: 5px;
